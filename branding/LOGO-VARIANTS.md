@@ -119,4 +119,16 @@ No using only letters, only ornaments, or cropped fragments.
 ## 7. File Naming Standards
 
 To maintain consistency, all logo files must follow this naming convention:
+logo.png
+logo-gold.png
+logo-white.png
+logo-inverted.png
+logo-minimal.png
+
+---
+
+## 8. Legal Notice
+
+All logo variants are protected intellectual property of Transilvania Chain.  
+Unauthorized modification, redistribution, or commercial use is prohibited.
 
